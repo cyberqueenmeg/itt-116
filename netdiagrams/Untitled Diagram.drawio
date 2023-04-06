@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T22:32:56.528Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="xgWoMGbGIWgy2KnStEpV" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T22:33:24.802Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5QIK5TnBlxEL6N0e1ACc" version="21.1.2" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1856" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry y="50" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="h9fLuppz6c3Ee6yRtKW5-2" value="Leadership Team&lt;br&gt;20 engineers&lt;br&gt;5 draftsmen&lt;br&gt;7 technicians&lt;br&gt;IT/Clerical staff (~40 people, 20% growth is 48 people)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="155" width="240" height="30" as="geometry" />
+          <mxGeometry x="10" y="165" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h9fLuppz6c3Ee6yRtKW5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="h9fLuppz6c3Ee6yRtKW5-4" target="h9fLuppz6c3Ee6yRtKW5-9">
           <mxGeometry relative="1" as="geometry" />
