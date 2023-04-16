@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-16T20:43:25.173Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7lTzq7kjjadYvu69AEpp" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-16T20:43:45.050Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OnVwMz1xsY3pnL9aQx19" version="21.1.8" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1434" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="593.5127555988315" y="556.1129411764706" width="52.96981499513145" height="52.705882352941174" as="geometry" />
         </mxCell>
         <mxCell id="h9fLuppz6c3Ee6yRtKW5-84" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;VPN Connection&lt;br&gt;to Manufacturing Site&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="677.273612463486" y="302.46588235294115" width="66.21226874391432" height="26.352941176470587" as="geometry" />
+          <mxGeometry x="683.893612463486" y="189.99588235294115" width="66.21226874391432" height="26.352941176470587" as="geometry" />
         </mxCell>
         <mxCell id="h9fLuppz6c3Ee6yRtKW5-88" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Business &lt;br&gt;Firewalls&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="496.5141187925998" y="569.2894117647058" width="67.5365141187926" height="26.352941176470587" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="534.255111976631" y="394.7011764705882" width="6.621226874391431" height="26.352941176470587" as="geometry" />
         </mxCell>
         <mxCell id="9fgYq5x_Su0tG5SkIavY-49" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Internal networks use copper&lt;br&gt;wiring&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="644.1674780915287" y="374.9364705882353" width="66.21226874391432" height="26.352941176470587" as="geometry" />
+          <mxGeometry x="677.2774780915287" y="322.2264705882353" width="66.21226874391432" height="26.352941176470587" as="geometry" />
         </mxCell>
         <mxCell id="9fgYq5x_Su0tG5SkIavY-51" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" parent="1" vertex="1">
           <mxGeometry x="438.9063777994158" y="362" width="69.52288218111003" height="39.529411764705884" as="geometry" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="_MHn0os9KooTsRCbE01Y-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Business &lt;br&gt;Firewalls&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="850.5241187925998" y="411.9994117647059" width="67.5365141187926" height="26.352941176470587" as="geometry" />
+        </mxCell>
+        <mxCell id="_MHn0os9KooTsRCbE01Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9fgYq5x_Su0tG5SkIavY-49" target="9fgYq5x_Su0tG5SkIavY-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
