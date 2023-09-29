@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T17:49:51.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fY5hFArWLOvK7PXELihR" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T17:53:02.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5w_GGqdpvV_y-dFBchJE" version="22.0.0" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1793" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hgCzGkN1xgXQZOoQxE4W-7" target="hgCzGkN1xgXQZOoQxE4W-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hgCzGkN1xgXQZOoQxE4W-16" value="AD Server&lt;br&gt;DNS Server&lt;br&gt;Windows Server 2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-16" value="AD Server&lt;br&gt;DNS Server&lt;br&gt;(Windows Server 2022)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050.15" y="738.31" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-17" value="" style="shape=mxgraph.cisco.servers.storage_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -181,7 +181,7 @@
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.87;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hgCzGkN1xgXQZOoQxE4W-20" target="hgCzGkN1xgXQZOoQxE4W-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hgCzGkN1xgXQZOoQxE4W-33" value="Database Server&lt;br&gt;Windows Database Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-33" value="Database Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1119" y="688" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hgCzGkN1xgXQZOoQxE4W-35" target="6Hb-7iKjbaXuVZW9iwau-11">
