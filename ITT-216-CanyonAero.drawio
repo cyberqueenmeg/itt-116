@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T18:05:03.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MN4kWWN-peAZEKsO7T-O" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T18:09:08.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="mxykjnbU6T6REKb4GXtn" version="22.0.0" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="2093" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1600" background="none" math="0" shadow="0">
       <root>
@@ -280,26 +280,26 @@
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-66" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1421.91" y="876.42" width="43" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="hgCzGkN1xgXQZOoQxE4W-67" value="Backup Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1332.91" y="945.36" width="170" height="40" as="geometry" />
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-67" value="Backup Server&lt;br&gt;DHCP Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1332.91" y="935.36" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-68" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="637.08" y="900" width="43" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="hgCzGkN1xgXQZOoQxE4W-69" value="Backup Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="548.08" y="968.94" width="170" height="40" as="geometry" />
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-69" value="Backup Server&lt;br&gt;DHCP Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548.08" y="958.94" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-70" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1799" y="910.89" width="43" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="hgCzGkN1xgXQZOoQxE4W-71" value="Backup Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="979.83" width="170" height="40" as="geometry" />
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-71" value="Backup Server&lt;br&gt;Email Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="969.83" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-72" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="381.90999999999997" y="889.49" width="43" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="hgCzGkN1xgXQZOoQxE4W-73" value="Backup Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="292.90999999999997" y="958.4300000000001" width="170" height="40" as="geometry" />
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-73" value="Backup Server&lt;br&gt;Email Server&lt;br&gt;(Windows Database Server)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="292.90999999999997" y="948.4300000000001" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-78" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="827.0000000000001" y="829.57" width="43" height="62" as="geometry" />
@@ -318,6 +318,9 @@
         </mxCell>
         <mxCell id="hgCzGkN1xgXQZOoQxE4W-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hgCzGkN1xgXQZOoQxE4W-7" target="hgCzGkN1xgXQZOoQxE4W-87">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hgCzGkN1xgXQZOoQxE4W-89" value="Remote Access Server&lt;br&gt;Email Server&lt;br&gt;DHCP Server&lt;br&gt;(Windows Server)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="804.86" y="664.94" width="145.43" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
